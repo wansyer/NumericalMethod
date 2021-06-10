@@ -2,7 +2,7 @@ clc;
 clear all;
 
 format long; // wansyer wuz here
-pkg load symbolic
+pkg load symbolic // test2
 v = sym('v'); 
 b = sym('b')                    % symbolic package is loaded and symbolic variable declared.
 
