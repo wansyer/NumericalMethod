@@ -1,7 +1,7 @@
 clc;
 clear all;
 
-format long;
+format long; sakeru gummy
 pkg load symbolic
 v = sym('v'); 
 b = sym('b')                    % symbolic package is loaded and symbolic variable declared.
